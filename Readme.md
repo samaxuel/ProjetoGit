@@ -1,1 +1,1 @@
-Olá! Este é o nosso primeiro arquivo aprendendo a usar o VS Code e o Git
+Olá, este é meu primeiro arquivo para o Git.
